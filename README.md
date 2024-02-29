@@ -28,3 +28,4 @@ Proyek ini bertujuan untuk menganalisis data pada E-Commerce Public Dataset. Tuj
 1. Masuk ke direktori proyek (Local):
 
    streamlit run main.py
+2. Kunjungi link berikut ini https://analysisproject.streamlit.app/
